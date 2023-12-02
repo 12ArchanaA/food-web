@@ -1,0 +1,24 @@
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(17, 15, 10);
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: end;
+}
+.social-media-accounts,
+.copy-right {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 3%;
+}
+
+.social-media-accounts svg{
+    color: white;
+}
+.copy-right p{
+    color: white;
+}

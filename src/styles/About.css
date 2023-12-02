@@ -1,0 +1,22 @@
+.about{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 560px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.about-content{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 15%;  
+}
+
+.about-content h1,
+.about-content p {
+    color: white;
+    font-family: cursive;
+}
