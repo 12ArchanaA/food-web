@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/food-web/static/css/main.65a72427.css",
+    "main.js": "/food-web/static/js/main.a43ae082.js",
+    "static/js/787.39f42472.chunk.js": "/food-web/static/js/787.39f42472.chunk.js",
+    "static/media/B1.jpg": "/food-web/static/media/B1.a5c8de46ae2d904f7a9d.jpg",
+    "static/media/F5.webp": "/food-web/static/media/F5.8fac9103a0fb40e50c63.webp",
+    "static/media/B4.jpg": "/food-web/static/media/B4.86513819828f1c1a14cd.jpg",
+    "static/media/profile.jpg": "/food-web/static/media/profile.e187dd66c3a4bbbd3702.jpg",
+    "static/media/F1.jpg": "/food-web/static/media/F1.2e42a411a4f091596743.jpg",
+    "static/media/F3.jpg": "/food-web/static/media/F3.31eef9b9593333f33749.jpg",
+    "static/media/profile1.webp": "/food-web/static/media/profile1.f8a3dad36ecb71bf9508.webp",
+    "static/media/S4.jpg": "/food-web/static/media/S4.b5355e972a7598875672.jpg",
+    "static/media/F6.jpeg": "/food-web/static/media/F6.42c8407421d18b528a9c.jpeg",
+    "static/media/B2.jpg": "/food-web/static/media/B2.aa61a8b0d816efbfef51.jpg",
+    "static/media/S3.jpg": "/food-web/static/media/S3.d33639e6a147703aac55.jpg",
+    "static/media/B3.jpg": "/food-web/static/media/B3.dfe7b779684f2a91ac63.jpg",
+    "static/media/S2.jpg": "/food-web/static/media/S2.ef895aba7e4e30a6b40b.jpg",
+    "static/media/S6.jpg": "/food-web/static/media/S6.1f982ea7b8a0e3b9d706.jpg",
+    "static/media/B5.jpg": "/food-web/static/media/B5.af8698d23625239d24cb.jpg",
+    "static/media/S5.jpg": "/food-web/static/media/S5.f1cf59e2e413527c8d61.jpg",
+    "static/media/S1.jpg": "/food-web/static/media/S1.47ea63db890baea555eb.jpg",
+    "static/media/B6.jpg": "/food-web/static/media/B6.a6a2386b39094b7765a2.jpg",
+    "static/media/about7.webp": "/food-web/static/media/about7.ddca3ed7bda35c30e439.webp",
+    "static/media/background.avif": "/food-web/static/media/background.fcc975222406ce8a45c3.avif",
+    "static/media/logo4.jpg": "/food-web/static/media/logo4.c3d6677482c97ee3ac85.jpg",
+    "index.html": "/food-web/index.html",
+    "main.65a72427.css.map": "/food-web/static/css/main.65a72427.css.map",
+    "main.a43ae082.js.map": "/food-web/static/js/main.a43ae082.js.map",
+    "787.39f42472.chunk.js.map": "/food-web/static/js/787.39f42472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a72427.css",
+    "static/js/main.a43ae082.js"
+  ]
+}
